@@ -1,0 +1,9 @@
+# binários
+todo
+*.exe
+
+# arquivos do sistema
+.DS_Store
+
+# logs
+*.log

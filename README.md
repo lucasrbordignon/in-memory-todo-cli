@@ -17,14 +17,14 @@ Aplicação simples de linha de comando para gerenciamento de tarefas, desenvolv
 - Separação por camadas (Domain, UseCase, Repository, Interface)
 
 ## 📁 Estrutura
-
+```
 cmd/
 internal/
 ├── domain
 ├── usecase
 ├── repository
 └── interface
-
+```
 ## ▶️ Como rodar
 
 ```bash
